@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
           # Options
-          user: wumpus-js
+          user: Rimapus
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Europe/Paris
