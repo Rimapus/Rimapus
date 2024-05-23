@@ -219,9 +219,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.58289496414574" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="432.58289496414574" y="0" width="23.48590726332298" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="456.06880222746867" y="0" width="3.9311977725312732" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.54919626345486" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="432.54919626345486" y="0" width="23.51991220880215" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="456.069108472257" y="0" width="3.9308915277429666" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2413,7 +2413,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 21.4m out of 137m users</span>
+                                    <span class="gh">ranked 21.4m out of 136m users</span>
                                 </div>
                                 <div class="text">Published 2 public repositories</div>
                             </div>
@@ -2693,7 +2693,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 May 2024, 10:16:33 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 May 2024, 11:15:03 (timezone Europe/Paris) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
